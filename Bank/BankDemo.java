@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class BankDemo{
+
+public class BankDemo {
     public static void main(String[] args){
         Bank balance = new Bank(100000);
         Scanner scanner = new Scanner(System.in);
