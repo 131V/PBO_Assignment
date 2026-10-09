@@ -1,4 +1,4 @@
-public class Bank{
+public class Bank {
     private double balance;
     private static int validTransaction;
 
@@ -20,8 +20,14 @@ public class Bank{
         }
     }
 
-    public double getBalance(){return balance;}
-    public void setBalance(double money){this.balance = balance;}
+    public double getBalance(){
+        return balance;
+    }
+    public void setBalance(double money){
+        this.balance = balance;
+    }
 
-    public int getValidTransaction(){return validTransaction;}
+    public int getValidTransaction(){
+        return validTransaction;
+    }
 }
