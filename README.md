@@ -6,10 +6,11 @@ Each assignment focuses on applying core OOP concepts in Java, such as encapsula
 
 ## Structure
 
-Assignments are organized by topic. See each folder's README for details.
+Assignments are organized by topic.
 
-- [`Array and Array List`](./Array%20and%20Array%20List) — Bank account simulation using arrays and ArrayList.
-- [`Inheritance and Polymorphism`](./Inheritance%20and%20Polymorphism) — Geometric shapes demonstrating inheritance and polymorphism.
+- [`Array and Array List`] — Bank account simulation using arrays and ArrayList.
+- [`Inheritance and Polymorphism`] — Geometric shapes demonstrating inheritance and polymorphism.
+- [`Interface and GUI`] — Simple program implementing inheritance and demonstrating GUI.
 
 ## Usage
 
